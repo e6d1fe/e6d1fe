@@ -1,7 +1,5 @@
 #### Hi there! 🧤
 👩🏻‍💻 I'm a student at Yonsei University in Seoul, South Korea.<br>
-🌐 I'm currently studying frontend web development focused on React & TypeScript!<br>
-📑 Contact: e6d1fe@gmail.com<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fe6d1fe&count_bg=%23E6D1FE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
