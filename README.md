@@ -14,3 +14,14 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </div>
+
+#### Education 👩🏻‍🏫
+
+- `2020.03 ~` : 연세대학교 언더우드국제대학 Creative Technology Management 전공
+- `2022.01 ~ 2022.05` : Georgia Institute of Technology 교환학생
+
+#### Clubs & Activities 🧞‍♀️
+
+- `2023.03 ~ 2023.12` : 멋쟁이사자처럼 연세대학교 11기
+- `2023.09 ~ 2024.06` : GDSC Yonsei - Frontend 파트 멤버
+- `2024.03 ~ 2024.12` : 멋쟁이사자처럼 연세대학교 12기 부회장
